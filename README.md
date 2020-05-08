@@ -1,2 +1,8 @@
-# QuizApp
-Final for CSC 690 -- App to design 
+# Trivia App 
+Final for CSC 690.
+ 
+
+Alan Nguyen -- Sports 
+Karina Abad -- Music 
+Fiona Gallagher -- 
+Daisy Sanchez -- Movies
