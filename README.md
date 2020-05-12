@@ -8,4 +8,4 @@ Karina Abad -- Music
 
 Fif Gallagher -- User Interface development
 
-Daisy Sanchez -- Movies
+Daisy Sanchez -- Disney Movies
