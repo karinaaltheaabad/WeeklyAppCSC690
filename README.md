@@ -1,15 +1,13 @@
 # Trivia App 
 Final for CSC 690, Interactive Multimedia Application Development. 
 
-An app that allows you to take trivia quizzes. The player can select one of our categories: Sports, Music, or Disney Movies. 
-Once the player selects a category they will be prompt to a page with multiple choice questions.
-The player can select an answer and if correct they get a message that says "Correct" if incorrect they get a message that says "Incorrect".      
+An app that allows you to plan your daily schedule. This app will help you manage your time better. It will help you tackle your daily tasks with more determination. This app has ...
  
 
-Alan Nguyen -- Sports 
+Alan Nguyen -- 
 
-Karina Abad -- Music 
+Karina Abad -- 
 
-Fif Gallagher -- User Interface development
+Fif Gallagher -- 
 
-Daisy Sanchez -- Disney Movies
+Daisy Sanchez -- 
