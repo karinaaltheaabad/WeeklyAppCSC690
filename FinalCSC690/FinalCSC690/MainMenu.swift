@@ -10,22 +10,22 @@ import UIKit
 
 
 class MainMenu: UIViewController {
-
-    @IBAction func clickedMondayButton(_ sender: Any) {
+/*
+    @IBAction func clickedButton(_ sender: Any) {
     
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         
-        let MondayControl = storyboard.instantiateViewController(withIdentifier: "MondayController")as! MondayController
+        let TodayController = storyboard.instantiateViewController(withIdentifier: "TodayController")as! TodayController
         
-        self.navigationController?.pushViewController(MondayControl, animated: true)
+        self.navigationController?.pushViewController(TodayControl, animated: true)
         
         
     }
-    
+*/
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        self.title = "Monday"
+        self.title = "Today"
     }
 
 

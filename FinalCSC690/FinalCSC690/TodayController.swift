@@ -8,7 +8,7 @@
 
 import UIKit
 
-class MondayController: UIViewController {
+class TodayController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
