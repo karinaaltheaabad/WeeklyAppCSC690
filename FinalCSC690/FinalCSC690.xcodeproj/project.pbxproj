@@ -16,7 +16,6 @@
 		F2770B072470F8D3009DED35 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2770B062470F8D3009DED35 /* SceneDelegate.swift */; };
 		F2770B092470F8D3009DED35 /* MondayController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2770B082470F8D3009DED35 /* MondayController.swift */; };
 		F2770B0C2470F8D3009DED35 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2770B0A2470F8D3009DED35 /* Main.storyboard */; };
-		F2770B0E2470F8D6009DED35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2770B0D2470F8D6009DED35 /* Assets.xcassets */; };
 		F2770B112470F8D6009DED35 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2770B0F2470F8D6009DED35 /* LaunchScreen.storyboard */; };
 		F2770B1C2470F8D6009DED35 /* FinalCSC690Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2770B1B2470F8D6009DED35 /* FinalCSC690Tests.swift */; };
 		F2770B272470F8D6009DED35 /* FinalCSC690UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2770B262470F8D6009DED35 /* FinalCSC690UITests.swift */; };
@@ -58,7 +57,6 @@
 		F2770B062470F8D3009DED35 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F2770B082470F8D3009DED35 /* MondayController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MondayController.swift; sourceTree = "<group>"; };
 		F2770B0B2470F8D3009DED35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F2770B0D2470F8D6009DED35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2770B102470F8D6009DED35 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2770B122470F8D6009DED35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2770B172470F8D6009DED35 /* FinalCSC690Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalCSC690Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -164,7 +162,6 @@
 				F2770B3E24711A11009DED35 /* SaturdayController.swift */,
 				F2770B4024711A1B009DED35 /* SundayController.swift */,
 				F2770B0A2470F8D3009DED35 /* Main.storyboard */,
-				F2770B0D2470F8D6009DED35 /* Assets.xcassets */,
 				BD4F028A2475573300FCA16B /* WeeklyAppIcon.png */,
 				F2770B0F2470F8D6009DED35 /* LaunchScreen.storyboard */,
 				F2770B122470F8D6009DED35 /* Info.plist */,
@@ -296,7 +293,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2770B112470F8D6009DED35 /* LaunchScreen.storyboard in Resources */,
-				F2770B0E2470F8D6009DED35 /* Assets.xcassets in Resources */,
 				F2770B0C2470F8D3009DED35 /* Main.storyboard in Resources */,
 				BD4F028B2475573400FCA16B /* WeeklyAppIcon.png in Resources */,
 			);
