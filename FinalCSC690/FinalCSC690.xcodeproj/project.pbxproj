@@ -125,6 +125,15 @@
 			path = View;
 			sourceTree = "<group>";
 		};
+		BDE755072475CC900001C712 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				F2770B0A2470F8D3009DED35 /* Main.storyboard */,
+				F2770B0F2470F8D6009DED35 /* LaunchScreen.storyboard */,
+			);
+			path = Storyboard;
+			sourceTree = "<group>";
+		};
 		F2770AF82470F8D3009DED35 = {
 			isa = PBXGroup;
 			children = (
@@ -148,6 +157,7 @@
 		F2770B032470F8D3009DED35 /* FinalCSC690 */ = {
 			isa = PBXGroup;
 			children = (
+				BDE755072475CC900001C712 /* Storyboard */,
 				BD4F0285247526FB00FCA16B /* Controller */,
 				BDC2BD7324750352001F4175 /* View */,
 				BDC2BD7224750341001F4175 /* Model */,
@@ -161,9 +171,7 @@
 				F2770B3C24711A04009DED35 /* FridayController.swift */,
 				F2770B3E24711A11009DED35 /* SaturdayController.swift */,
 				F2770B4024711A1B009DED35 /* SundayController.swift */,
-				F2770B0A2470F8D3009DED35 /* Main.storyboard */,
 				BD4F028A2475573300FCA16B /* WeeklyAppIcon.png */,
-				F2770B0F2470F8D6009DED35 /* LaunchScreen.storyboard */,
 				F2770B122470F8D6009DED35 /* Info.plist */,
 				F2FBED982473D4D700561A7C /* TableViewCell.swift */,
 			);
