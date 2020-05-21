@@ -1,11 +1,4 @@
-# Trivia App 
-Final for CSC 690.
+# Scheduling App
+Our final for CSC 690, Interactive Multimedia Application Development. A simple app for making to-do lists.
  
-
-Alan Nguyen -- Sports 
-
-Karina Abad -- Music 
-
-Fiona Gallagher -- 
-
-Daisy Sanchez -- Movies
+ Created by: Daisy Sanchez, Karina Abad, Alan Nguyen, and Fif Gallagher
