@@ -1,5 +1,7 @@
 # Weekly App -- Final CSC 690
 
+Project by: Karina A, Fiona G., Allan N., Daisy S.
+
 Background: 
 
 Since Covid 19, it has been difficult to put a structure behind our tasks as we have numerous things to do while staying in our home, with potential responsibilities even there. Prior to the pandemic, it was easier to focus on tasks that needed to be done for school as there was structure and a place for us to go to class, study and collaborate with school mates, teachers and friends. 
