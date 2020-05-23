@@ -1,6 +1,6 @@
 # Weekly App -- Final CSC 690
 
-Project by: Karina A, Fiona G., Allan N., Daisy S.
+Project by: Karina A, Fiona G., Alan N., Daisy S.
 
 Background: 
 
