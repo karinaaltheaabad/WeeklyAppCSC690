@@ -20,7 +20,8 @@ Goal:
 
 Pitfalls: 
 
-The group was able to follow everything else except implementing a back function to go to the main menu after typing in the day as there was difficulties in design constraints, as well as being able to list for afternoons and evenings of each day. Given that there was more time and less work load on each student, we would have successfully been able to improve and cooperate better in terms of completing necessary features of the app.
+The group was able to follow everything else except being able to store the data within each TableView, so when the user exits the specific page screen, the data gets lost and resets, and being able to fully implement MVC to the app due to time constraints. 
+
 
 Summary: 
 
