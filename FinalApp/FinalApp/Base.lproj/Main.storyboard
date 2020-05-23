@@ -18,7 +18,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="weekly." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XHH-Ku-gPy">
                                 <rect key="frame" x="53" y="89" width="309" height="99"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="87"/>
-                                <color key="textColor" red="0.095817688799999995" green="0.17339568329999999" blue="0.66839378240000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="cgh-Hg-bHC">
@@ -141,7 +141,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582909999998" blue="0.62571020720000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="ydF-6L-ecs" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="162" id="1RP-7k-ZAI"/>
                             <constraint firstAttribute="bottomMargin" secondItem="GVP-ME-swv" secondAttribute="bottom" constant="335" id="1kz-3i-pr8"/>
@@ -195,7 +195,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="monday." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bS3-l6-j9p">
                                 <rect key="frame" x="36" y="82" width="326" height="90"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="70"/>
-                                <color key="textColor" red="0.095817688799999995" green="0.17339568329999999" blue="0.66839378240000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                                 <color key="shadowColor" systemColor="separatorColor" red="0.23529411759999999" green="0.23529411759999999" blue="0.26274509800000001" alpha="0.28999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
                                 <size key="shadowOffset" width="2" height="2"/>
@@ -350,7 +350,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582909999998" blue="0.62571020720000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="Whg-bw-3ki" firstAttribute="top" secondItem="Jlx-lV-v8m" secondAttribute="topMargin" constant="277" id="4f1-TZ-C3V"/>
                             <constraint firstItem="sLv-NV-Bhf" firstAttribute="leading" secondItem="jCr-og-A2k" secondAttribute="leading" constant="247" id="7lF-Vx-r8Z"/>
@@ -427,7 +427,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="tuesday." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UBW-ct-tiV">
                                 <rect key="frame" x="36" y="82" width="326" height="90"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="70"/>
-                                <color key="textColor" red="0.095817688799999995" green="0.17339568329999999" blue="0.66839378240000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                                 <color key="shadowColor" systemColor="separatorColor" red="0.23529411759999999" green="0.23529411759999999" blue="0.26274509800000001" alpha="0.28999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
                                 <size key="shadowOffset" width="2" height="2"/>
@@ -584,7 +584,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582909999998" blue="0.62571020720000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="SWi-Bh-ty8" firstAttribute="leading" secondItem="2NU-eq-zxN" secondAttribute="leading" constant="44" id="5yc-oS-1pE"/>
                             <constraint firstAttribute="bottomMargin" secondItem="29C-1Y-7Nd" secondAttribute="bottom" constant="38" id="6Bj-5M-a00"/>
@@ -661,7 +661,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="wednesday." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nq7-vM-eOe">
                                 <rect key="frame" x="30" y="82" width="367" height="90"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="70"/>
-                                <color key="textColor" red="0.095817688799999995" green="0.17339568329999999" blue="0.66839378240000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                                 <color key="shadowColor" systemColor="separatorColor" red="0.23529411759999999" green="0.23529411759999999" blue="0.26274509800000001" alpha="0.28999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
                                 <size key="shadowOffset" width="2" height="2"/>
@@ -818,7 +818,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582914573406" blue="0.62571020715586312" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="FFj-lN-gLg" firstAttribute="trailing" secondItem="C0Z-Zu-mqd" secondAttribute="trailing" constant="239" id="4Qh-AU-22v"/>
                             <constraint firstItem="C0Z-Zu-mqd" firstAttribute="top" secondItem="FFj-lN-gLg" secondAttribute="top" constant="254" id="4ex-8A-BKd"/>
@@ -895,7 +895,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="thursday." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yh2-zu-BMO">
                                 <rect key="frame" x="37" y="82" width="326" height="90"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="70"/>
-                                <color key="textColor" red="0.09581768879969875" green="0.17339568325469254" blue="0.66839378238341962" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="BwR-zC-wY0">
@@ -1050,7 +1050,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582909999998" blue="0.62571020720000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="n3i-7I-nLO" firstAttribute="top" secondItem="Gou-yQ-sLg" secondAttribute="top" constant="138.5" id="0RG-ii-mcR"/>
                             <constraint firstItem="Gou-yQ-sLg" firstAttribute="trailing" secondItem="R6s-01-HPV" secondAttribute="trailing" constant="239" id="0hJ-UM-qV4"/>
@@ -1127,7 +1127,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="friday." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8ZG-uT-sfT">
                                 <rect key="frame" x="37" y="82" width="326" height="90"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="70"/>
-                                <color key="textColor" red="0.095817688799999995" green="0.17339568329999999" blue="0.66839378240000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="p4p-V5-Ba2">
@@ -1283,7 +1283,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582909999998" blue="0.62571020720000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="aKx-Is-dlT" firstAttribute="top" secondItem="etT-EW-4iH" secondAttribute="top" constant="139.5" id="027-K9-9cH"/>
                             <constraint firstItem="etT-EW-4iH" firstAttribute="trailing" secondItem="2oV-D7-97M" secondAttribute="trailing" constant="196" id="0Jw-N2-62Q"/>
@@ -1361,7 +1361,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="saturday." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gJf-qO-tXn">
                                 <rect key="frame" x="37" y="82" width="326" height="90"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="70"/>
-                                <color key="textColor" red="0.095817688799999995" green="0.17339568329999999" blue="0.66839378240000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Dus-HR-Dif">
@@ -1516,7 +1516,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582909999998" blue="0.62571020720000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="CiH-1A-jRR" firstAttribute="leading" secondItem="QZy-7Y-6ER" secondAttribute="leading" constant="37" id="0PV-vt-uS8"/>
                             <constraint firstItem="QZy-7Y-6ER" firstAttribute="trailing" secondItem="KV9-Ax-2yR" secondAttribute="trailing" constant="246" id="3HU-oY-aAM"/>
@@ -1593,7 +1593,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="sunday." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FVe-Jm-Uay">
                                 <rect key="frame" x="37" y="82" width="326" height="90"/>
                                 <fontDescription key="fontDescription" name="Georgia" family="Georgia" pointSize="70"/>
-                                <color key="textColor" red="0.095817688799999995" green="0.17339568329999999" blue="0.66839378240000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.070428447772984473" green="0.11257847148710898" blue="0.50924951424870468" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="485-gY-qoL">
@@ -1748,7 +1748,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" red="0.85552245380000003" green="0.79475582909999998" blue="0.62571020720000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="L7e-Rt-dyb" firstAttribute="top" secondItem="eWO-UI-2Uj" secondAttribute="top" constant="430" id="00s-OI-R4I"/>
                             <constraint firstItem="mJh-Vm-vIk" firstAttribute="bottom" secondItem="eWO-UI-2Uj" secondAttribute="bottom" id="0Bt-0g-0lv"/>
